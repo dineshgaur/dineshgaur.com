@@ -1,0 +1,4 @@
+baseURL = "https://dineshgaur.com/"
+locale = "en-us"
+title = "Dinesh Gaur"
+theme = "PaperMod"
